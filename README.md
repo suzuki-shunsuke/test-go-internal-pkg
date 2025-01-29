@@ -1,0 +1,1 @@
+# test-go-internal-pkg
